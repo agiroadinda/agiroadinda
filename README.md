@@ -126,8 +126,8 @@ Animal Cruelty awareness site · Bright Futures orphan initiative · Savannah Fr
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/agiroadinda&show_icons=true&hide_border=true&count_private=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/agiroadinda&layout=compact&hide_border=true)
 
 </div>
 
@@ -137,8 +137,8 @@ Animal Cruelty awareness site · Bright Futures orphan initiative · Savannah Fr
 
 Most client work is in private repositories. Code, architecture walkthroughs, and references available on request.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-DesiroDevLabs-3B82F6?style=flat)](https://your-portfolio-url.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-DesiroDevLabs-3B82F6?style=flat)](https://desiro-dev-lab.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/titus-ooko-3058b116b/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](classicstars44@gmail.com)
 
 </div>
