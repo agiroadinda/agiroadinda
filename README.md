@@ -146,6 +146,6 @@ Most client work is in private repositories. Code, architecture walkthroughs, an
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-DesiroDevLabs-3B82F6?style=flat)](https://desiro-dev-lab.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/titus-ooko-3058b116b/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](classicstars44@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:classicstars44@gmail.com)
 
 </div>
