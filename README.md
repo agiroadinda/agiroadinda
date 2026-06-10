@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Backend+Engineer+%26+Automation+Specialist;Building+systems+that+run+without+being+watched;Nairobi+%7C+Kenya+%C2%B7+UK+%C2%B7+US+clients)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Backend+Engineer+%26+Automation+Specialist;Building+systems+that+run+without+being+watched;Africa+%7C+Kenya+%C2%B7+Europe+%C2%B7+US+clients)](https://git.io/typing-svg)
 
 </div>
 
@@ -49,13 +49,13 @@ Backend engineer focused on systems that handle money, make autonomous decisions
 
 *Solo backend engineer · private client repository*
 
-A mobile life-simulation game with a fully functional financial system. Players buy properties and vehicles, take mortgage and auto loans, build credit scores, and face real consequences — repossession, eviction, storage — if they miss payments.
+A mobile life-simulation game with a fully functional financial system. Players buy properties and vehicles, take mortgage and auto loans, build credit scores, and face real consequences - repossession, eviction, storage - if they miss payments.
 
-Built the entire backend as the sole engineer. The system handles EMI scheduling, penalty stacking, five-tier credit scoring, dealership-specific vehicle depreciation, and a storage facility that auto-activates when a player loses their home. Background jobs run autonomously via Sidekiq — leaderboards, missed payment checks, repossession triggers — without any manual action once deployed. Two independent auth systems run in parallel: Devise for admin, JWT for players.
+Built the entire backend as the sole engineer. The system handles EMI scheduling, penalty stacking, five-tier credit scoring, dealership-specific vehicle depreciation, and a storage facility that auto-activates when a player loses their home. Background jobs run autonomously via Sidekiq - leaderboards, missed payment checks, repossession triggers - without any manual action once deployed. Two independent auth systems run in parallel: Devise for admin, JWT for players.
 
 Deployed on AWS EC2 behind Nginx and Unicorn. Full Swagger documentation.
 
-*Private repo — architecture and code available on request*
+*Private repo - architecture and code available on request*
 
 ---
 
@@ -66,10 +66,10 @@ Connects to Alpaca, scores a universe of ETFs across momentum, volatility, volum
 
 ---
 
-### SupportMap / SupportMapKenya
+### SupportMap 
 `FastAPI` `Next.js` `Docker` `PostgreSQL`
 
-Geolocation platform for finding UK council support services by postcode or category. Built both backend and frontend. Extended the same concept for Kenya.
+Geolocation platform for finding UK council support services by postcode or category. Built both backend and frontend. 
 
 ---
 
