@@ -6,7 +6,7 @@
 
 ---
 
-Backend engineer focused on systems that handle money, make autonomous decisions, and run without being watched — trading engines, game backends, geolocation platforms, data pipelines, and bots. Most of my work is for clients across Kenya, the UK, and the US.
+Backend engineer focused on systems that handle money, make autonomous decisions, and run without being watched - trading engines, game backends, geolocation platforms, data pipelines, and bots. Most of my work is for clients across Africa, the Europe, and the US.
 
 ---
 
@@ -44,7 +44,7 @@ Backend engineer focused on systems that handle money, make autonomous decisions
 
 ## Projects
 
-### Getting Grown — Game Backend
+### Getting Grown - Game Backend
 `Ruby on Rails` `PostgreSQL` `Sidekiq` `AWS EC2` `AWS S3` `JWT` `Devise`
 
 *Solo backend engineer · private client repository*
@@ -73,21 +73,21 @@ Geolocation platform for finding UK council support services by postcode or cate
 
 ---
 
-### Fallen London Bot *(client)*
+### Fallen London Bot 
 `JavaScript` `Node.js`
 
-Browser automation bot for the narrative game Fallen London. Ships with a full web control panel — task builder, live logs, priority branching, conditional logic, and automatic action point management.
+Browser automation bot for the narrative game Fallen London. Ships with a full web control panel - task builder, live logs, priority branching, conditional logic, and automatic action point management.
 
 ---
 
-### Mob Wars Battle Royale Bot *(client)*
+### Mob Wars Battle Royale Bot 
 `Python` `OpenCV` `PyAutoGUI` `Tesseract OCR`
 
-Fully autonomous bot that plays Mob Wars without human input — scans players via computer vision, manages health and vitality, equips gear, reads OCR data, and loops across matches indefinitely.
+Fully autonomous bot that plays Mob Wars without human input - scans players via computer vision, manages health and vitality, equips gear, reads OCR data, and loops across matches indefinitely.
 
 ---
 
-### Random TD Bot *(client)*
+### Random TD Bot 
 `Python` `OpenCV`
 
 Automates the tower defence game Random TD on BlueStacks. Intelligent tower merging, battle management, configurable via YAML.
@@ -126,8 +126,8 @@ Animal Cruelty awareness site · Bright Futures orphan initiative · Savannah Fr
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/agiroadinda&show_icons=true&hide_border=true&count_private=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/agiroadinda&layout=compact&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agiroadinda&show_icons=true&hide_border=true&count_private=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agiroadinda&layout=compact&hide_border=true)
 
 </div>
 
